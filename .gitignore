@@ -1,0 +1,5 @@
+.vs
+vcpkg
+out/**
+data/*.csv
+doc/html
